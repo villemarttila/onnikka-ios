@@ -1,0 +1,472 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B90AD7551CE45C4200EF7A6F /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B90AD7541CE45C4200EF7A6F /* MapKit.framework */; };
+		B90AD7571CE468BE00EF7A6F /* BussCardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90AD7561CE468BE00EF7A6F /* BussCardViewController.swift */; };
+		B90AD7591CE468D800EF7A6F /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90AD7581CE468D800EF7A6F /* MapViewController.swift */; };
+		B90AD75B1CE468E500EF7A6F /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90AD75A1CE468E500EF7A6F /* ProfileViewController.swift */; };
+		B90AD75D1CE46F4D00EF7A6F /* FavoriteTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90AD75C1CE46F4D00EF7A6F /* FavoriteTableViewCell.swift */; };
+		B90AD7611CE493D900EF7A6F /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = B90AD7601CE493D900EF7A6F /* Favorites.swift */; };
+		B9111E691E141F41007F8F1F /* BussLine1.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E681E141F41007F8F1F /* BussLine1.plist */; };
+		B9111E6C1E156905007F8F1F /* BussLine2.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E6B1E156905007F8F1F /* BussLine2.plist */; };
+		B9111E6E1E157063007F8F1F /* BussLine3.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E6D1E157062007F8F1F /* BussLine3.plist */; };
+		B9111E701E157161007F8F1F /* BussLine4.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E6F1E157161007F8F1F /* BussLine4.plist */; };
+		B9111E721E157852007F8F1F /* BussLine7.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E711E157852007F8F1F /* BussLine7.plist */; };
+		B9111E741E15787F007F8F1F /* BussLine8.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E731E15787F007F8F1F /* BussLine8.plist */; };
+		B9111E761E1578BE007F8F1F /* BussLine9.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E751E1578BE007F8F1F /* BussLine9.plist */; };
+		B9111E781E158E7C007F8F1F /* BussLine10.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E771E158E7C007F8F1F /* BussLine10.plist */; };
+		B9111E7A1E158E81007F8F1F /* BussLine11.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E791E158E81007F8F1F /* BussLine11.plist */; };
+		B9111E7C1E158EC4007F8F1F /* BussLine14.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E7B1E158EC4007F8F1F /* BussLine14.plist */; };
+		B9111E7E1E158F0E007F8F1F /* BussLine15.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E7D1E158F0E007F8F1F /* BussLine15.plist */; };
+		B9111E801E158F65007F8F1F /* BussLine17.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E7F1E158F65007F8F1F /* BussLine17.plist */; };
+		B9111E821E158F90007F8F1F /* BussLine20.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E811E158F90007F8F1F /* BussLine20.plist */; };
+		B9111E861E158FF9007F8F1F /* BussLine21.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E831E158FF9007F8F1F /* BussLine21.plist */; };
+		B9111E871E158FF9007F8F1F /* BussLine22.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E841E158FF9007F8F1F /* BussLine22.plist */; };
+		B9111E881E158FF9007F8F1F /* BussLine23.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9111E851E158FF9007F8F1F /* BussLine23.plist */; };
+		B91C86B01CEDC56C00231DD2 /* NewFavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91C86AF1CEDC56C00231DD2 /* NewFavoriteViewController.swift */; };
+		B95195471D40F00F00CEA098 /* BussLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = B95195461D40F00F00CEA098 /* BussLine.swift */; };
+		B9A7D65D1D3CBC5000AE1235 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9A7D65C1D3CBC5000AE1235 /* CoreData.framework */; };
+		B9A7D6611D3CC23600AE1235 /* BussStop.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9A7D6601D3CC23600AE1235 /* BussStop.swift */; };
+		B9C1ED361C948F900026DD73 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C1ED351C948F900026DD73 /* AppDelegate.swift */; };
+		B9C1ED381C948F900026DD73 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C1ED371C948F900026DD73 /* FavoriteViewController.swift */; };
+		B9C1ED3A1C948F900026DD73 /* RouteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9C1ED391C948F900026DD73 /* RouteViewController.swift */; };
+		B9C1ED3D1C948F900026DD73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9C1ED3B1C948F900026DD73 /* Main.storyboard */; };
+		B9C1ED3F1C948F900026DD73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9C1ED3E1C948F900026DD73 /* Assets.xcassets */; };
+		B9C1ED421C948F900026DD73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9C1ED401C948F900026DD73 /* LaunchScreen.storyboard */; };
+		B9CAC0E81D40F3C9001B4F19 /* BussLineTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CAC0E71D40F3C9001B4F19 /* BussLineTableViewCell.swift */; };
+		B9CAC0EC1D41FECD001B4F19 /* LineMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CAC0EB1D41FECD001B4F19 /* LineMapViewController.swift */; };
+		B9CAC0F01D42198F001B4F19 /* Station.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9CAC0EF1D42198F001B4F19 /* Station.swift */; };
+		B9F4D52C1CF478C70072E65D /* FilterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F4D52B1CF478C70072E65D /* FilterViewController.swift */; };
+		B9F4D52F1CF479F00072E65D /* BussLinesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F4D52E1CF479F00072E65D /* BussLinesTableViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B90AD7541CE45C4200EF7A6F /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		B90AD7561CE468BE00EF7A6F /* BussCardViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BussCardViewController.swift; sourceTree = "<group>"; };
+		B90AD7581CE468D800EF7A6F /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		B90AD75A1CE468E500EF7A6F /* ProfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		B90AD75C1CE46F4D00EF7A6F /* FavoriteTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoriteTableViewCell.swift; sourceTree = "<group>"; };
+		B90AD7601CE493D900EF7A6F /* Favorites.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Favorites.swift; sourceTree = "<group>"; };
+		B9111E681E141F41007F8F1F /* BussLine1.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine1.plist; sourceTree = "<group>"; };
+		B9111E6B1E156905007F8F1F /* BussLine2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine2.plist; sourceTree = "<group>"; };
+		B9111E6D1E157062007F8F1F /* BussLine3.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine3.plist; sourceTree = "<group>"; };
+		B9111E6F1E157161007F8F1F /* BussLine4.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine4.plist; sourceTree = "<group>"; };
+		B9111E711E157852007F8F1F /* BussLine7.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine7.plist; sourceTree = "<group>"; };
+		B9111E731E15787F007F8F1F /* BussLine8.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine8.plist; sourceTree = "<group>"; };
+		B9111E751E1578BE007F8F1F /* BussLine9.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine9.plist; sourceTree = "<group>"; };
+		B9111E771E158E7C007F8F1F /* BussLine10.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine10.plist; sourceTree = "<group>"; };
+		B9111E791E158E81007F8F1F /* BussLine11.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine11.plist; sourceTree = "<group>"; };
+		B9111E7B1E158EC4007F8F1F /* BussLine14.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine14.plist; sourceTree = "<group>"; };
+		B9111E7D1E158F0E007F8F1F /* BussLine15.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine15.plist; sourceTree = "<group>"; };
+		B9111E7F1E158F65007F8F1F /* BussLine17.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine17.plist; sourceTree = "<group>"; };
+		B9111E811E158F90007F8F1F /* BussLine20.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine20.plist; sourceTree = "<group>"; };
+		B9111E831E158FF9007F8F1F /* BussLine21.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine21.plist; sourceTree = "<group>"; };
+		B9111E841E158FF9007F8F1F /* BussLine22.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine22.plist; sourceTree = "<group>"; };
+		B9111E851E158FF9007F8F1F /* BussLine23.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = BussLine23.plist; sourceTree = "<group>"; };
+		B91C86AF1CEDC56C00231DD2 /* NewFavoriteViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewFavoriteViewController.swift; sourceTree = "<group>"; };
+		B95195461D40F00F00CEA098 /* BussLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BussLine.swift; sourceTree = "<group>"; };
+		B9A7D65C1D3CBC5000AE1235 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		B9A7D6601D3CC23600AE1235 /* BussStop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BussStop.swift; sourceTree = "<group>"; };
+		B9C1ED321C948F900026DD73 /* Onnikka.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Onnikka.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9C1ED351C948F900026DD73 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B9C1ED371C948F900026DD73 /* FavoriteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewController.swift; sourceTree = "<group>"; };
+		B9C1ED391C948F900026DD73 /* RouteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RouteViewController.swift; sourceTree = "<group>"; };
+		B9C1ED3C1C948F900026DD73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B9C1ED3E1C948F900026DD73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B9C1ED411C948F900026DD73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B9C1ED431C948F900026DD73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9CAC0E71D40F3C9001B4F19 /* BussLineTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BussLineTableViewCell.swift; path = ../BussLineTableViewCell.swift; sourceTree = "<group>"; };
+		B9CAC0EB1D41FECD001B4F19 /* LineMapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LineMapViewController.swift; sourceTree = "<group>"; };
+		B9CAC0EF1D42198F001B4F19 /* Station.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Station.swift; sourceTree = "<group>"; };
+		B9F4D52B1CF478C70072E65D /* FilterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilterViewController.swift; sourceTree = "<group>"; };
+		B9F4D52E1CF479F00072E65D /* BussLinesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BussLinesTableViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B9C1ED2F1C948F900026DD73 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9A7D65D1D3CBC5000AE1235 /* CoreData.framework in Frameworks */,
+				B90AD7551CE45C4200EF7A6F /* MapKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B9111E6A1E1568F3007F8F1F /* Lines */ = {
+			isa = PBXGroup;
+			children = (
+				B9111E681E141F41007F8F1F /* BussLine1.plist */,
+				B9111E6B1E156905007F8F1F /* BussLine2.plist */,
+				B9111E6D1E157062007F8F1F /* BussLine3.plist */,
+				B9111E6F1E157161007F8F1F /* BussLine4.plist */,
+				B9111E711E157852007F8F1F /* BussLine7.plist */,
+				B9111E731E15787F007F8F1F /* BussLine8.plist */,
+				B9111E751E1578BE007F8F1F /* BussLine9.plist */,
+				B9111E771E158E7C007F8F1F /* BussLine10.plist */,
+				B9111E791E158E81007F8F1F /* BussLine11.plist */,
+				B9111E7B1E158EC4007F8F1F /* BussLine14.plist */,
+				B9111E7D1E158F0E007F8F1F /* BussLine15.plist */,
+				B9111E7F1E158F65007F8F1F /* BussLine17.plist */,
+				B9111E811E158F90007F8F1F /* BussLine20.plist */,
+				B9111E831E158FF9007F8F1F /* BussLine21.plist */,
+				B9111E841E158FF9007F8F1F /* BussLine22.plist */,
+				B9111E851E158FF9007F8F1F /* BussLine23.plist */,
+			);
+			name = Lines;
+			sourceTree = "<group>";
+		};
+		B93D1C661D894C93003B93FA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B9C1ED291C948F900026DD73 = {
+			isa = PBXGroup;
+			children = (
+				B9A7D65C1D3CBC5000AE1235 /* CoreData.framework */,
+				B90AD7541CE45C4200EF7A6F /* MapKit.framework */,
+				B9C1ED341C948F900026DD73 /* Onnikka */,
+				B9C1ED331C948F900026DD73 /* Products */,
+				B93D1C661D894C93003B93FA /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		B9C1ED331C948F900026DD73 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B9C1ED321C948F900026DD73 /* Onnikka.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B9C1ED341C948F900026DD73 /* Onnikka */ = {
+			isa = PBXGroup;
+			children = (
+				B9111E6A1E1568F3007F8F1F /* Lines */,
+				B9C1ED351C948F900026DD73 /* AppDelegate.swift */,
+				B9F4D52D1CF478F30072E65D /* Controllers */,
+				B90AD7601CE493D900EF7A6F /* Favorites.swift */,
+				B95195461D40F00F00CEA098 /* BussLine.swift */,
+				B9CAC0EF1D42198F001B4F19 /* Station.swift */,
+				B9A7D6601D3CC23600AE1235 /* BussStop.swift */,
+				B9C1ED3B1C948F900026DD73 /* Main.storyboard */,
+				B9CAC0E71D40F3C9001B4F19 /* BussLineTableViewCell.swift */,
+				B90AD75C1CE46F4D00EF7A6F /* FavoriteTableViewCell.swift */,
+				B9C1ED3E1C948F900026DD73 /* Assets.xcassets */,
+				B9C1ED401C948F900026DD73 /* LaunchScreen.storyboard */,
+				B9C1ED431C948F900026DD73 /* Info.plist */,
+			);
+			path = Onnikka;
+			sourceTree = "<group>";
+		};
+		B9F4D52D1CF478F30072E65D /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				B9C1ED371C948F900026DD73 /* FavoriteViewController.swift */,
+				B91C86AF1CEDC56C00231DD2 /* NewFavoriteViewController.swift */,
+				B9C1ED391C948F900026DD73 /* RouteViewController.swift */,
+				B90AD7561CE468BE00EF7A6F /* BussCardViewController.swift */,
+				B90AD7581CE468D800EF7A6F /* MapViewController.swift */,
+				B9F4D52E1CF479F00072E65D /* BussLinesTableViewController.swift */,
+				B9CAC0EB1D41FECD001B4F19 /* LineMapViewController.swift */,
+				B9F4D52B1CF478C70072E65D /* FilterViewController.swift */,
+				B90AD75A1CE468E500EF7A6F /* ProfileViewController.swift */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B9C1ED311C948F900026DD73 /* Onnikka */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9C1ED461C948F900026DD73 /* Build configuration list for PBXNativeTarget "Onnikka" */;
+			buildPhases = (
+				B9C1ED2E1C948F900026DD73 /* Sources */,
+				B9C1ED2F1C948F900026DD73 /* Frameworks */,
+				B9C1ED301C948F900026DD73 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Onnikka;
+			productName = Onnikka;
+			productReference = B9C1ED321C948F900026DD73 /* Onnikka.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B9C1ED2A1C948F900026DD73 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0800;
+				TargetAttributes = {
+					B9C1ED311C948F900026DD73 = {
+						CreatedOnToolsVersion = 7.3;
+						DevelopmentTeam = 5WFQVV23X9;
+						LastSwiftMigration = 0800;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = B9C1ED2D1C948F900026DD73 /* Build configuration list for PBXProject "Onnikka" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B9C1ED291C948F900026DD73;
+			productRefGroup = B9C1ED331C948F900026DD73 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B9C1ED311C948F900026DD73 /* Onnikka */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B9C1ED301C948F900026DD73 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9C1ED421C948F900026DD73 /* LaunchScreen.storyboard in Resources */,
+				B9111E821E158F90007F8F1F /* BussLine20.plist in Resources */,
+				B9111E7C1E158EC4007F8F1F /* BussLine14.plist in Resources */,
+				B9111E761E1578BE007F8F1F /* BussLine9.plist in Resources */,
+				B9C1ED3F1C948F900026DD73 /* Assets.xcassets in Resources */,
+				B9111E881E158FF9007F8F1F /* BussLine23.plist in Resources */,
+				B9111E871E158FF9007F8F1F /* BussLine22.plist in Resources */,
+				B9C1ED3D1C948F900026DD73 /* Main.storyboard in Resources */,
+				B9111E6C1E156905007F8F1F /* BussLine2.plist in Resources */,
+				B9111E701E157161007F8F1F /* BussLine4.plist in Resources */,
+				B9111E741E15787F007F8F1F /* BussLine8.plist in Resources */,
+				B9111E781E158E7C007F8F1F /* BussLine10.plist in Resources */,
+				B9111E801E158F65007F8F1F /* BussLine17.plist in Resources */,
+				B9111E7E1E158F0E007F8F1F /* BussLine15.plist in Resources */,
+				B9111E721E157852007F8F1F /* BussLine7.plist in Resources */,
+				B9111E7A1E158E81007F8F1F /* BussLine11.plist in Resources */,
+				B9111E691E141F41007F8F1F /* BussLine1.plist in Resources */,
+				B9111E861E158FF9007F8F1F /* BussLine21.plist in Resources */,
+				B9111E6E1E157063007F8F1F /* BussLine3.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B9C1ED2E1C948F900026DD73 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9CAC0E81D40F3C9001B4F19 /* BussLineTableViewCell.swift in Sources */,
+				B90AD7611CE493D900EF7A6F /* Favorites.swift in Sources */,
+				B90AD75B1CE468E500EF7A6F /* ProfileViewController.swift in Sources */,
+				B9CAC0F01D42198F001B4F19 /* Station.swift in Sources */,
+				B9C1ED3A1C948F900026DD73 /* RouteViewController.swift in Sources */,
+				B90AD7571CE468BE00EF7A6F /* BussCardViewController.swift in Sources */,
+				B9F4D52F1CF479F00072E65D /* BussLinesTableViewController.swift in Sources */,
+				B9F4D52C1CF478C70072E65D /* FilterViewController.swift in Sources */,
+				B9C1ED361C948F900026DD73 /* AppDelegate.swift in Sources */,
+				B90AD7591CE468D800EF7A6F /* MapViewController.swift in Sources */,
+				B9A7D6611D3CC23600AE1235 /* BussStop.swift in Sources */,
+				B9CAC0EC1D41FECD001B4F19 /* LineMapViewController.swift in Sources */,
+				B90AD75D1CE46F4D00EF7A6F /* FavoriteTableViewCell.swift in Sources */,
+				B9C1ED381C948F900026DD73 /* FavoriteViewController.swift in Sources */,
+				B95195471D40F00F00CEA098 /* BussLine.swift in Sources */,
+				B91C86B01CEDC56C00231DD2 /* NewFavoriteViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B9C1ED3B1C948F900026DD73 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9C1ED3C1C948F900026DD73 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B9C1ED401C948F900026DD73 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9C1ED411C948F900026DD73 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B9C1ED441C948F900026DD73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B9C1ED451C948F900026DD73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B9C1ED471C948F900026DD73 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = 5WFQVV23X9;
+				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
+				INFOPLIST_FILE = Onnikka/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = villemarttila.Onnikka;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Onnikka/Onnikka-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		B9C1ED481C948F900026DD73 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				DEVELOPMENT_TEAM = 5WFQVV23X9;
+				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
+				INFOPLIST_FILE = Onnikka/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = villemarttila.Onnikka;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Onnikka/Onnikka-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B9C1ED2D1C948F900026DD73 /* Build configuration list for PBXProject "Onnikka" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9C1ED441C948F900026DD73 /* Debug */,
+				B9C1ED451C948F900026DD73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B9C1ED461C948F900026DD73 /* Build configuration list for PBXNativeTarget "Onnikka" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9C1ED471C948F900026DD73 /* Debug */,
+				B9C1ED481C948F900026DD73 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B9C1ED2A1C948F900026DD73 /* Project object */;
+}

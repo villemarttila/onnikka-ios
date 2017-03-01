@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>stop_id</key>
+		<string>120564</string>
+		<key>stop_lat</key>
+		<string>65.054118</string>
+		<key>stop_lon</key>
+		<string>25.597418</string>
+		<key>stop_name</key>
+		<string>Johdinkuja E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120575</string>
+		<key>stop_lat</key>
+		<string>65.051399</string>
+		<key>stop_lon</key>
+		<string>25.602171</string>
+		<key>stop_name</key>
+		<string>Ruotutie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120576</string>
+		<key>stop_lat</key>
+		<string>65.050091</string>
+		<key>stop_lon</key>
+		<string>25.607125</string>
+		<key>stop_name</key>
+		<string>Välskärintie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120591</string>
+		<key>stop_lat</key>
+		<string>65.045917</string>
+		<key>stop_lon</key>
+		<string>25.611675</string>
+		<key>stop_name</key>
+		<string>Kornetintie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>169847</string>
+		<key>stop_lat</key>
+		<string>65.042889</string>
+		<key>stop_lon</key>
+		<string>25.615995</string>
+		<key>stop_name</key>
+		<string>Tähtipolku E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>169844</string>
+		<key>stop_lat</key>
+		<string>65.041136</string>
+		<key>stop_lon</key>
+		<string>25.61271</string>
+		<key>stop_name</key>
+		<string>Pikku Karhu P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120617</string>
+		<key>stop_lat</key>
+		<string>65.04182900000002</string>
+		<key>stop_lon</key>
+		<string>25.601419</string>
+		<key>stop_name</key>
+		<string>Huurrekuja E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120619</string>
+		<key>stop_lat</key>
+		<string>65.042673</string>
+		<key>stop_lon</key>
+		<string>25.594835</string>
+		<key>stop_name</key>
+		<string>Nietospolku P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120607</string>
+		<key>stop_lat</key>
+		<string>65.044353</string>
+		<key>stop_lon</key>
+		<string>25.586443</string>
+		<key>stop_name</key>
+		<string>Tuiskutie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120620</string>
+		<key>stop_lat</key>
+		<string>65.042541</string>
+		<key>stop_lon</key>
+		<string>25.581697</string>
+		<key>stop_name</key>
+		<string>Rannanperä E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120633</string>
+		<key>stop_lat</key>
+		<string>65.039055</string>
+		<key>stop_lon</key>
+		<string>25.577381</string>
+		<key>stop_name</key>
+		<string>Leväsuontie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120642</string>
+		<key>stop_lat</key>
+		<string>65.036388</string>
+		<key>stop_lon</key>
+		<string>25.572385</string>
+		<key>stop_name</key>
+		<string>Tupasvillatie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120658</string>
+		<key>stop_lat</key>
+		<string>65.03342000000002</string>
+		<key>stop_lon</key>
+		<string>25.562312</string>
+		<key>stop_name</key>
+		<string>Huonesuonpuisto E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120666</string>
+		<key>stop_lat</key>
+		<string>65.030683</string>
+		<key>stop_lon</key>
+		<string>25.552929</string>
+		<key>stop_name</key>
+		<string>Tokkatie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120681</string>
+		<key>stop_lat</key>
+		<string>65.028399</string>
+		<key>stop_lon</key>
+		<string>25.549529</string>
+		<key>stop_name</key>
+		<string>Manttaalitie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120688</string>
+		<key>stop_lat</key>
+		<string>65.025617</string>
+		<key>stop_lon</key>
+		<string>25.545754</string>
+		<key>stop_name</key>
+		<string>Karttatie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120720</string>
+		<key>stop_lat</key>
+		<string>65.022865</string>
+		<key>stop_lon</key>
+		<string>25.541384</string>
+		<key>stop_name</key>
+		<string>Parkkisenkangas E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120729</string>
+		<key>stop_lat</key>
+		<string>65.021562</string>
+		<key>stop_lon</key>
+		<string>25.534792</string>
+		<key>stop_name</key>
+		<string>Metsotie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120721</string>
+		<key>stop_lat</key>
+		<string>65.02345800000002</string>
+		<key>stop_lon</key>
+		<string>25.530465</string>
+		<key>stop_name</key>
+		<string>Yrjänäntie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120703</string>
+		<key>stop_lat</key>
+		<string>65.024763</string>
+		<key>stop_lon</key>
+		<string>25.525428</string>
+		<key>stop_name</key>
+		<string>Hintanmutka P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120705</string>
+		<key>stop_lat</key>
+		<string>65.02404900000002</string>
+		<key>stop_lon</key>
+		<string>25.518592</string>
+		<key>stop_name</key>
+		<string>Laanilan koulu E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120708</string>
+		<key>stop_lat</key>
+		<string>65.023862</string>
+		<key>stop_lon</key>
+		<string>25.511472</string>
+		<key>stop_name</key>
+		<string>Laamannintie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120724</string>
+		<key>stop_lat</key>
+		<string>65.023597</string>
+		<key>stop_lon</key>
+		<string>25.505629</string>
+		<key>stop_name</key>
+		<string>Nokkalantie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120691</string>
+		<key>stop_lat</key>
+		<string>65.025851</string>
+		<key>stop_lon</key>
+		<string>25.497757</string>
+		<key>stop_name</key>
+		<string>Hoikantie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>121534</string>
+		<key>stop_lat</key>
+		<string>65.025307</string>
+		<key>stop_lon</key>
+		<string>25.48654</string>
+		<key>stop_name</key>
+		<string>Kalliola P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120711</string>
+		<key>stop_lat</key>
+		<string>65.0253</string>
+		<key>stop_lon</key>
+		<string>25.47873</string>
+		<key>stop_name</key>
+		<string>Myllytie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120714</string>
+		<key>stop_lat</key>
+		<string>65.024828</string>
+		<key>stop_lon</key>
+		<string>25.469483</string>
+		<key>stop_name</key>
+		<string>Merikoskenkatu E1</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120736</string>
+		<key>stop_lat</key>
+		<string>65.021996</string>
+		<key>stop_lon</key>
+		<string>25.467969</string>
+		<key>stop_name</key>
+		<string>Toivoniemi E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120754</string>
+		<key>stop_lat</key>
+		<string>65.019661</string>
+		<key>stop_lon</key>
+		<string>25.4677</string>
+		<key>stop_name</key>
+		<string>Raatti E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120777</string>
+		<key>stop_lat</key>
+		<string>65.01328336243668</string>
+		<key>stop_lon</key>
+		<string>25.46963132336373</string>
+		<key>stop_name</key>
+		<string>Toripakka E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120797</string>
+		<key>stop_lat</key>
+		<string>65.01122700000002</string>
+		<key>stop_lon</key>
+		<string>25.466784</string>
+		<key>stop_name</key>
+		<string>Elokuvakeskus</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120789</string>
+		<key>stop_lat</key>
+		<string>65.012624</string>
+		<key>stop_lon</key>
+		<string>25.468764</string>
+		<key>stop_name</key>
+		<string>Toripakka P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>307155</string>
+		<key>stop_lat</key>
+		<string>65.01423322993672</string>
+		<key>stop_lon</key>
+		<string>25.47117923183765</string>
+		<key>stop_name</key>
+		<string>Kaupungintalo</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120769</string>
+		<key>stop_lat</key>
+		<string>65.01615</string>
+		<key>stop_lon</key>
+		<string>25.471847</string>
+		<key>stop_name</key>
+		<string>Pokkitörmä</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120755</string>
+		<key>stop_lat</key>
+		<string>65.020482</string>
+		<key>stop_lon</key>
+		<string>25.468162</string>
+		<key>stop_name</key>
+		<string>Raatti P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120737</string>
+		<key>stop_lat</key>
+		<string>65.02227000000002</string>
+		<key>stop_lon</key>
+		<string>25.468463</string>
+		<key>stop_name</key>
+		<string>Toivoniemi P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120715</string>
+		<key>stop_lat</key>
+		<string>65.024942</string>
+		<key>stop_lon</key>
+		<string>25.47005</string>
+		<key>stop_name</key>
+		<string>Merikoskenkatu P1</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120710</string>
+		<key>stop_lat</key>
+		<string>65.025272</string>
+		<key>stop_lon</key>
+		<string>25.476886</string>
+		<key>stop_name</key>
+		<string>Myllytie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>121535</string>
+		<key>stop_lat</key>
+		<string>65.02523100000002</string>
+		<key>stop_lon</key>
+		<string>25.487032</string>
+		<key>stop_name</key>
+		<string>Kalliola E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120709</string>
+		<key>stop_lat</key>
+		<string>65.024857</string>
+		<key>stop_lon</key>
+		<string>25.497028</string>
+		<key>stop_name</key>
+		<string>Hoikantie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120723</string>
+		<key>stop_lat</key>
+		<string>65.023575</string>
+		<key>stop_lon</key>
+		<string>25.505206</string>
+		<key>stop_name</key>
+		<string>Nokkalantie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120707</string>
+		<key>stop_lat</key>
+		<string>65.02371</string>
+		<key>stop_lon</key>
+		<string>25.513348</string>
+		<key>stop_name</key>
+		<string>Laamannintie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120706</string>
+		<key>stop_lat</key>
+		<string>65.02437</string>
+		<key>stop_lon</key>
+		<string>25.520208</string>
+		<key>stop_name</key>
+		<string>Laanilan koulu P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120704</string>
+		<key>stop_lat</key>
+		<string>65.024718</string>
+		<key>stop_lon</key>
+		<string>25.525388</string>
+		<key>stop_name</key>
+		<string>Hintanmutka E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120722</string>
+		<key>stop_lat</key>
+		<string>65.02322100000002</string>
+		<key>stop_lon</key>
+		<string>25.530988</string>
+		<key>stop_name</key>
+		<string>Yrjänäntie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120730</string>
+		<key>stop_lat</key>
+		<string>65.02084000000002</string>
+		<key>stop_lon</key>
+		<string>25.535193</string>
+		<key>stop_name</key>
+		<string>Metsotie E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120719</string>
+		<key>stop_lat</key>
+		<string>65.022832</string>
+		<key>stop_lon</key>
+		<string>25.54164</string>
+		<key>stop_name</key>
+		<string>Parkkisenkangas P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120689</string>
+		<key>stop_lat</key>
+		<string>65.02613</string>
+		<key>stop_lon</key>
+		<string>25.546851</string>
+		<key>stop_name</key>
+		<string>Karttatie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120678</string>
+		<key>stop_lat</key>
+		<string>65.029346</string>
+		<key>stop_lon</key>
+		<string>25.551006</string>
+		<key>stop_name</key>
+		<string>Manttaalitie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120665</string>
+		<key>stop_lat</key>
+		<string>65.031194</string>
+		<key>stop_lon</key>
+		<string>25.554748</string>
+		<key>stop_name</key>
+		<string>Tokkatie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120659</string>
+		<key>stop_lat</key>
+		<string>65.03371300000002</string>
+		<key>stop_lon</key>
+		<string>25.563846</string>
+		<key>stop_name</key>
+		<string>Huonesuonpuisto P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120641</string>
+		<key>stop_lat</key>
+		<string>65.036743</string>
+		<key>stop_lon</key>
+		<string>25.573916</string>
+		<key>stop_name</key>
+		<string>Tupasvillatie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120628</string>
+		<key>stop_lat</key>
+		<string>65.03962900000002</string>
+		<key>stop_lon</key>
+		<string>25.578369</string>
+		<key>stop_name</key>
+		<string>Leväsuontie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120621</string>
+		<key>stop_lat</key>
+		<string>65.042489</string>
+		<key>stop_lon</key>
+		<string>25.581891</string>
+		<key>stop_name</key>
+		<string>Rannanperä P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120606</string>
+		<key>stop_lat</key>
+		<string>65.044352</string>
+		<key>stop_lon</key>
+		<string>25.588311</string>
+		<key>stop_name</key>
+		<string>Tuiskutie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120605</string>
+		<key>stop_lat</key>
+		<string>65.042365</string>
+		<key>stop_lon</key>
+		<string>25.595424</string>
+		<key>stop_name</key>
+		<string>Nietospolku E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120618</string>
+		<key>stop_lat</key>
+		<string>65.041849</string>
+		<key>stop_lon</key>
+		<string>25.602607</string>
+		<key>stop_name</key>
+		<string>Huurrekuja P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>169845</string>
+		<key>stop_lat</key>
+		<string>65.041026</string>
+		<key>stop_lon</key>
+		<string>25.612461</string>
+		<key>stop_name</key>
+		<string>Pikku Karhu E</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>169846</string>
+		<key>stop_lat</key>
+		<string>65.043128</string>
+		<key>stop_lon</key>
+		<string>25.61662</string>
+		<key>stop_name</key>
+		<string>Tähtipolku P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120601</string>
+		<key>stop_lat</key>
+		<string>65.046281</string>
+		<key>stop_lon</key>
+		<string>25.612251</string>
+		<key>stop_name</key>
+		<string>Kornetintie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120577</string>
+		<key>stop_lat</key>
+		<string>65.05046</string>
+		<key>stop_lon</key>
+		<string>25.605364</string>
+		<key>stop_name</key>
+		<string>Välskärintie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120578</string>
+		<key>stop_lat</key>
+		<string>65.05151600000002</string>
+		<key>stop_lon</key>
+		<string>25.602229</string>
+		<key>stop_name</key>
+		<string>Ruotutie P</string>
+	</dict>
+	<dict>
+		<key>stop_id</key>
+		<string>120565</string>
+		<key>stop_lat</key>
+		<string>65.054834</string>
+		<key>stop_lon</key>
+		<string>25.596319</string>
+		<key>stop_name</key>
+		<string>Johdinkuja P</string>
+	</dict>
+</array>
+</plist>
